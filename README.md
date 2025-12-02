@@ -8,6 +8,11 @@ Customizable Cover Plates for the Lily58 low-profile split keyboard. This projec
 
 The project is hosted on MakerWorld: [Lily58 Custom Cover Plate](https://makerworld.com/en/models/1998345)
 
+## Preview
+
+![Lily58 Custom Cover Plate](https://makerworld.bblmw.com/makerworld/model/USd6917ff54843c0/design/2025-11-19_48758953eab4f8.jpeg?x-oss-process=image/resize,w_200/format,webp)
+![Lily58 Custom Cover Plate](https://makerworld.bblmw.com/makerworld/model/USd6917ff54843c0/design/2025-11-19_d7b50f3edfde58.jpeg?x-oss-process=image/resize,w_200/format,webp)
+
 ## Compatibility
 
 These cover plates are designed for the Lily58 Choc Low Profile Keyboard. You can get one from [Typeractive](https://typeractive.xyz/pages/build#lily58_choc).
@@ -31,3 +36,7 @@ These cover plates are designed for the Lily58 Choc Low Profile Keyboard. You ca
 
 3.  **Repeat**
     - Repeat steps 1-2 for the other cover plate.
+
+## Video Tutorial
+
+[![Lily58 Custom Cover Plate - Customizer Instructions](https://img.youtube.com/vi/bqa-J1BOCiI/0.jpg)](https://youtu.be/bqa-J1BOCiI)
